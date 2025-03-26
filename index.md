@@ -6,3 +6,11 @@
 
 ![Gato jugando con una bola](https://www.patasencasa.com/sites/default/files/2024-10/gato-jugando-con-pelota_0.jpg)
 
+
+`echo "Hola Mundo"`
+
+```python
+def saludo():
+    print("¡Hola, Mundo!")
+saludo()
+
