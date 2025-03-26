@@ -14,3 +14,9 @@ def saludo():
     print("¡Hola, Mundo!")
 saludo()
 
+- [ ] Configurar GitHub Pages
+- [ ] Crear el esquema de mi portafolio
+- [x] Escribir mi presentación
+- [ ] Agregar proyectos al portafolio
+- [x] Revisar la estructura del repositorio
+
